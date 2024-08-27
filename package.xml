@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>range_v3</name>
+    <version>0.11.0</version>
+    <description>ROS 2 package for the range-v3 library.</description>
+
+    <maintainer email="jodle@optimaxsi.com">Your Name</maintainer>
+    <license>BSL-1.0</license>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
